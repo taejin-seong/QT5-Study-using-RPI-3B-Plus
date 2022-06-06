@@ -2,7 +2,7 @@
 
 ## Setting <br>  
 * **Language**     
-  + C++
+  + C++, QML
 * **Dev Environment**
   + Qt Creator
   + QMake 3.1 / QT 5.11.3 Version
