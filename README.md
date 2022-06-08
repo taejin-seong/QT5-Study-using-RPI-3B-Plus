@@ -23,12 +23,12 @@
 ## Additional Learning Methods
 
 ### Documentation
-  + [**QT Documentation : Class/API Reference**](http://doc.qt.io)
+  + [**Class/API Reference**](http://doc.qt.io)
   + [**Qt Examples And Tutorials**](http://doc.qt.io/qt-5/qtexamplesandtutorials.html)
 
 ### Books
-  + [Qt 프로그래밍 - 개발 영역을 임베디드까지 넓히자!](http://www.yes24.com/Product/Goods/2915037) (서적, 2008년 저 QT 3 ver 기준)
-  + [Qt 4를 이용한 C++ GUI 프로그래밍](http://www.yes24.com/Product/goods/3315872?scode=032&OzSrank=1) (서적, 비교적 최근)
+  + [Qt 프로그래밍 - 개발 영역을 임베디드까지 넓히자!](http://www.yes24.com/Product/Goods/2915037) (한국 서적, 2008년 저 QT 3 ver 기준)
+  + [Qt 4를 이용한 C++ GUI 프로그래밍](http://www.yes24.com/Product/goods/3315872?scode=032&OzSrank=1) (한국 서적, 비교적 최근)
   + [Qt 프로그래밍](https://github.com/eddykim777/qtbook) (PDF 지원, 한글)
   + [Qt5 Cadaques](https://qmlbook.github.io/) (PDF 지원, 영어)
  
