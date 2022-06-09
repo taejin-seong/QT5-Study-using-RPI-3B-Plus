@@ -17,7 +17,7 @@ Window {
     width: 400
     height: 500
 
-    flags: Qt.FramelessWindowHint // 윈도우창 title를 가려줌.
+    flags: Qt.FramelessWindowHint // 윈도우창 프레임을 가려줌.
 
 /* Row */
 // Row는 가로형태로 아이템을 배치시킨다.
